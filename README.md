@@ -1,6 +1,6 @@
 # Hewo! I'm Juna:3
 #### I go by Astro15 online :33
-I’m a TransFlux person thingy who loves old Tech, Jailbreaking, Software preservation, And internet history :3. I work on things like revival projects (<a href="https://t.cbone.uk">Trellis</a>, <a href="https://retrobook.uk/">Retrobook</a>, <a href="https://chirppp.ing/">Chirp</a>, <a href="https://valoria-social.com/">Valoria</a>, and <a href="https://birdie.blun.cc/">Birdie</a>), Patching old clients, Maintaining <a href="<a href="https://www.astro15.uk/archives/">archives</a>, And keeping forgotten devices and software alive. Basically, I like cute and Nerdy things, bringing dead Tech back to life and fucking around with random shit till it breaks or works. <3
+I’m a TransFlux person thingy who loves old Tech, Jailbreaking, Software preservation, And internet history :3. I work on things like revival projects (<a href="https://t.cbone.uk">Trellis</a>, <a href="https://retrobook.uk/">Retrobook</a>, <a href="https://chirppp.ing/">Chirp</a>, <a href="https://valoria-social.com/">Valoria</a>, and <a href="https://birdie.blun.cc/">Birdie</a>), Patching old clients, Maintaining <a href="https://www.astro15.uk/archives/">archives</a>, And keeping forgotten devices and software alive. Basically, I like cute and Nerdy things, bringing dead Tech back to life and fucking around with random shit till it breaks or works. <3
 
 ## What platforms i can patch: 
 | Platform | Experience | 
