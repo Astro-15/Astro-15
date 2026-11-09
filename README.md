@@ -9,3 +9,13 @@ I’m a TransFlux person thingy who loves old Tech, Jailbreaking, Software prese
 | MacOS | High |
 | Android | Moderate |
 | Windows Phone | Moderate |
+
+## Platforms I mess with:
+| Platform | Era |
+|---|---|
+| iOS | Legacy + Modern |
+| MacOS | Legacy + Modern |
+| Android | Legacy + Modern |
+| Windows Phone | Legacy (Ofc) |
+| PS4 | Legacy (Ofc) |
+| 3DS | Legacy (Ofc) |
