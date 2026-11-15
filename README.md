@@ -4,7 +4,7 @@ I’m a TransFlux person thingy who loves old Tech, Jailbreaking, Software prese
 
 BTW: i will NEVER ask for any personal information, (Passwords, Emails, Phone Numbers Etc), If someone is pretending to be me and asking for your personal info block them immediately!!
 I only go by these usernames online:
-
+| Username :3 |
 |---|
 | Astro15 |
 | Astro15uk |
@@ -13,7 +13,7 @@ I only go by these usernames online:
 | Astro15-uk |
 
 i USED to go by:
-
+| Username :3 |
 |---|
 | A5tr015 | 
 
